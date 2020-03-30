@@ -9,3 +9,5 @@ Modern applications do all of this and more. They track and share data, conduct 
 Regardless of your business, it is enabled and empowered through technology and digital. Put another way, digital is no longer a separate thing - it is part of our everyday world. If you don't understand digital, you don't understand how the world works, what challenges will arise or what possible solutions might exist.
 
 This guide will help. We will start with how applications work.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ToferC/digital-for-executives/master)
